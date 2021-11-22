@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
   <h1>PicGo</h1>
-  <blockquote>图片上传+管理新体验 </blockquote>
   <a href="https://github.com/Molunerfinn/PicGo/actions">
     <img src="https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square" alt="">
   </a>
@@ -22,3 +21,4 @@
     <img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-66ae93.svg?style=flat-square" alt="">
   </a>
 </div>
+
